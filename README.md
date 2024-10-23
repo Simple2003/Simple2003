@@ -1,7 +1,5 @@
 <!-- vantoan -->
-<a href="#" target="_blank">
-  <img src="https://www.google.com.vn/search?q=it+information+technology&sca_esv=d19b47973d8008ce&udm=2&sxsrf=ADLYWIIwfHwmopHHlT_JXF0uuuZ4FIMBFA%3A1729688462032&ei=jvMYZ4LOAcSM2roPvKmLyQc&oq=IT+&gs_lp=EgNpbWciA0lUICoCCAAyBBAjGCcyDRAAGIAEGLEDGEMYigUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyBRAAGIAEMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFSIYTUKsIWKsIcAF4AJABAJgBVqABVqoBATG4AQHIAQD4AQGYAgKgAl7CAggQABiABBixA5gDAIgGAZIHATKgB58G&sclient=img#vhid=-nE7x6gQrvbGUM&vssid=mosaic" width="1200" alt="vantoan" />
-</a>
+
 
 <h1 align="center">Hi 👋, I'm Văn Toàn</h1>
 <h3 align="center">I come from Vietnam</h3>
