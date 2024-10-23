@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Văn Toàn</h1>
 <h3 align="center">I come from Vietnam</h3>
-<img align="right" style = "margin-top: 100" alt="Coding" width="350" src="https://media.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif">
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simple&label=Profile%20views&color=0e75b6&style=flat" alt="simple" /> </p>
 
