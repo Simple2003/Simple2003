@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Văn Toàn</h1>
 <h3 align="center">I come from Vietnam</h3>
 
-<p align="left"><img src="[https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcompute-gifs&psig=AOvVaw2ZHVAFQHe7HMj0qFU_iCI6&ust=1729770222391000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOio46G2pIkDFQAAAAAdAAAAABAE](https://media1.tenor.com/m/Ns-juEQlpkwAAAAd/calculating-alan.gif)"></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simple&label=Profile%20views&color=0e75b6&style=flat" alt="simple" /> </p>
 
 <h3 align="left">Connect with me:</h3>
